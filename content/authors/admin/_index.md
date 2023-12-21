@@ -70,12 +70,22 @@ skills:
       - name: Matlab
         description: ''
         percent: 75
-        icon: matlab
+        icon: calculator
         icon_pack: fab
-      - name: Computational Fliud Dynamics
+      - name: UNIX
         description: ''
         percent: 100
-        icon: database
+        icon: linux
+        icon_pack: fas
+      - name: High Performance Computing (HPC)
+        description: ''
+        percent: 90
+        icon: code
+        icon_pack: fas
+      - name: Git/Github
+        description: ''
+        percent: 100
+        icon: github
         icon_pack: fas
   - name: Software
     color: '#eeac02'
@@ -84,20 +94,26 @@ skills:
       - name: PALM LES
         description: ''
         percent: 75
-        icon: person-hiking
+        icon: wind
         icon_pack: fas
       
       - name: Xcompact3d
         description: ''
         percent: 95
-        icon: cat
+        icon: wind
         icon_pack: fas
       
-      - name: Ansys
+      - name: Ansys Fluent
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: wind
         icon_pack: fas
+
+      - name: Fusion 360
+        description: ''
+        percent: 90
+        icon: cube
+        icon_pack: fas        
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
