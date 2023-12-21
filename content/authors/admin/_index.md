@@ -54,34 +54,36 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
+        icon_pack: fab
+      - name: Matlab
+        description: ''
+        percent: 75
+        icon: matlab
         icon_pack: fab
       - name: Computational Fliud Dynamics
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: Matlab
-        description: ''
-        percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: PALM LES
         description: ''
-        percent: 60
+        percent: 75
         icon: person-hiking
         icon_pack: fas
-      - name: Mountain Biking
+      
+      - name: Xcompact3d
         description: ''
-        percent: 100
+        percent: 95
         icon: cat
         icon_pack: fas
-      - name: Photography
+      
+      - name: Ansys
         description: ''
         percent: 80
         icon: camera-retro
