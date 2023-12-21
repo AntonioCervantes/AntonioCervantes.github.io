@@ -38,8 +38,8 @@ interests:
 education:
   courses:
     - course: Ph.D. in Civil and Environmental Engineering
-      institution: UC Irvine
-      year: Current
+      institution: University of California, Irvine
+      year: Present
     - course: M.S. in Mechanical Engineering
       institution: San Jose State University
       year: 2023
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Antonio Cervantes is a first year Ph.D. student of Civil and Environmental Engineering at the Boundary Layers and Turbulence Lab, UC Irvine. He research focuses on atmospheric-forest canopy flows and its effect on wildfires. His research interests include wildfires, particle transport, and turbulence. 
+Antonio Cervantes is a first year Ph.D. student of Civil and Environmental Engineering at the Boundary Layers and Turbulence Lab, UC Irvine. His research focuses on atmospheric-forest canopy flows and its effect on wildfires. His research interests include wildfires, particle transport, and turbulence. 
 {style="text-align: justify;"}
