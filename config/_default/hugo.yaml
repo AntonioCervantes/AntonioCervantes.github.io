@@ -38,7 +38,7 @@ outputs:
 imaging:
   resampleFilter: box
   quality: 75
-  anchor: smart
+  anchor: center
 timeout: 600000
 taxonomies:
   tag: tags
