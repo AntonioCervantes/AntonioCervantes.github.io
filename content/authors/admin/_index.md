@@ -9,6 +9,11 @@ name_pronunciation: ''
 first_name: Antonio Quim
 last_name: Cervantes
 
+# imaging:
+#   resampleFilter: lanczos
+#   quality: 75
+#   anchor: smart
+
 # Status emoji
 status:
   icon: ☕️
@@ -122,6 +127,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+{{ with .Resources.GetMatch "avatar.jpg" }}
+  {{ with .Resize (printf "%dx%d r90" .Height .Width) }}
+    <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+  {{ end }}
+{{ end }}
 
 Antonio Cervantes is a first year Ph.D. student of Civil and Environmental Engineering at the Boundary Layers and Turbulence Lab, UC Irvine. His research focuses on atmospheric-forest canopy flows and its effect on wildfires. His research interests include wildfires, particle transport, and turbulence. 
 {style="text-align: justify;"}
