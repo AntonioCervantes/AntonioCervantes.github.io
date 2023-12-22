@@ -71,22 +71,22 @@ skills:
         description: ''
         percent: 75
         icon: calculator
-        icon_pack: fab
+        icon_pack: fas
       - name: UNIX
         description: ''
         percent: 100
         icon: linux
-        icon_pack: fas
+        icon_pack: fab
       - name: High Performance Computing (HPC)
         description: ''
         percent: 90
-        icon: code
+        icon: laptop-code
         icon_pack: fas
       - name: Git/Github
         description: ''
         percent: 100
         icon: github
-        icon_pack: fas
+        icon_pack: fab
   - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
