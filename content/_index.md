@@ -62,49 +62,71 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Forest Canopy Wildfire Turbulence
-          company: Boundary Layers & Turbulence Lab, UC Irvine
-          company_url: '' #https://faculty.sites.uci.edu/banerjeelab/
-          company_logo: uci_logo
-          location: ''
-          date_start: '2023-09-01'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
-          test:
+              Responsibilities include:
 
-              * Research atmospheric flows through heterogeneous forest canopies and study the effects on wildfires
-              * Simulate flows through horizontally homogeneous forest canopies for validation
-              * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
-              * Simulate flow through gaps of various sizes within a forest canopy
-         - title: Wildfire Ember Transport
-          company: Thermo-Fluids compleXity Lab, SJSU
-          company_url: '' #https://www.tfx-lab.com/
-          company_logo: sjsu
-          location: ''
-          date_start: '2023-09-01'
-          date_end: ''
-          description: |2-
-          test:
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+      # items:
+      #   - title: Forest Canopy Wildfire Turbulence
+      #     company: Boundary Layers & Turbulence Lab, UC Irvine
+      #     company_url: '' #https://faculty.sites.uci.edu/banerjeelab/
+      #     company_logo: uci_logo
+      #     location: ''
+      #     date_start: '2023-09-01'
+      #     date_end: ''
+      #     description: |2-
+      #     test:
 
-            * Investigate the influence of turbulence intensity on wildfire ember (firebrand) landing distribution for an improved understanding of spot fire generation and wildfire spread
-            * Conduct large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
-            * Create a data visualization pipeline for statistical analysis of particle landing distribution
-            * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
-         - title: Wildfire Bio-Aerosol Transport
-          company: Thermo-Fluids compleXity Lab, SJSU
-          company_url: '' #https://www.tfx-lab.com/
-          company_logo: sjsu
-          location: ''
-          date_start: '2023-09-01'
-          date_end: ''
-          description: |2-
-          test: 
-          
-            * Develop numerical DEM simulation for an NSF-funded research project of more than 5 million wildfire bio-aerosols understanding of spot fire generation and wildfire spread
-            * Leverage Python acceleration and parallelization libraries to optimize code for a 99\% increase in computation speed
-            * Create new Python functions for data-driven particle initialization at fire locations for improved physics
-            * Process large amounts of simulation data for visualizations and animations of more than 100 million data points
-            * Collaborate with an interdisciplinary team to write and publish a novel biological emissions factor research paper
+      #         * Research atmospheric flows through heterogeneous forest canopies and study the effects on wildfires
+      #         * Simulate flows through horizontally homogeneous forest canopies for validation
+      #         * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
+      #         * Simulate flow through gaps of various sizes within a forest canopy
+      #    - title: Wildfire Ember Transport
+      #     company: Thermo-Fluids compleXity Lab, SJSU
+      #     company_url: '' #https://www.tfx-lab.com/
+      #     company_logo: sjsu
+      #     location: ''
+      #     date_start: '2023-09-01'
+      #     date_end: ''
+      #     description: |2-
+      #     test:
+
+      #       * Investigate the influence of turbulence intensity on wildfire ember (firebrand) landing distribution for an improved understanding of spot fire generation and wildfire spread
+      #       * Conduct large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
+      #       * Create a data visualization pipeline for statistical analysis of particle landing distribution
+      #       * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
+      #    - title: Wildfire Bio-Aerosol Transport
+      #     company: Thermo-Fluids compleXity Lab, SJSU
+      #     company_url: '' #https://www.tfx-lab.com/
+      #     company_logo: sjsu
+      #     location: ''
+      #     date_start: '2023-09-01'
+      #     date_end: ''
+      #     description: |2-
+      #     test: 
+
+      #       * Develop numerical DEM simulation for an NSF-funded research project of more than 5 million wildfire bio-aerosols understanding of spot fire generation and wildfire spread
+      #       * Leverage Python acceleration and parallelization libraries to optimize code for a 99\% increase in computation speed
+      #       * Create new Python functions for data-driven particle initialization at fire locations for improved physics
+      #       * Process large amounts of simulation data for visualizations and animations of more than 100 million data points
+      #       * Collaborate with an interdisciplinary team to write and publish a novel biological emissions factor research paper
     design:
       columns: '2'
   - block: accomplishments
