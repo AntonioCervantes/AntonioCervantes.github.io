@@ -72,9 +72,10 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Research the effects of heterogeneous forest canopies on atmospheric flows and wildfires
+              * Simulate flows through horizontally homogeneous forest canopies for validation
+              * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
+              * Simulate flows through forest canopies with gaps of various sizes
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
