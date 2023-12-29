@@ -64,7 +64,7 @@ sections:
       items:
         - title: Forest Canopy Wildfire Turbulence
           company: Boundary Layers & Turbulence Lab, UC Irvine
-          company_url: ''
+          company_url: https://faculty.sites.uci.edu/banerjeelab/
           company_logo: org-gc
           location: ''
           date_start: '2021-01-01'
