@@ -50,7 +50,6 @@ sections:
       username: admin
     design:
       columns: '1'
-  
   - block: experience
     content:
       title: Research Experience
@@ -75,7 +74,6 @@ sections:
               * Simulate flows through horizontally homogeneous forest canopies for validation
               * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
               * Simulate flow through gaps of various sizes within a forest canopy
-        
          - title: Wildfire Ember Transport
           company: Thermo-Fluids compleXity Lab, SJSU
           company_url: https://www.tfx-lab.com/
@@ -88,7 +86,6 @@ sections:
             * Conduct large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
             * Create a data visualization pipeline for statistical analysis of particle landing distribution
             * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
-
          - title: Wildfire Bio-Aerosol Transport
           company: Thermo-Fluids compleXity Lab, SJSU
           company_url: https://www.tfx-lab.com/
@@ -104,8 +101,6 @@ sections:
             * Collaborate with an interdisciplinary team to write and publish a novel biological emissions factor research paper
     design:
       columns: '2'
-
-
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
