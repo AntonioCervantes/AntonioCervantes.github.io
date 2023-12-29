@@ -65,7 +65,7 @@ sections:
         - title: Graduate Student Researcher
           company: UC Irvine
           company_url: ''
-          company_logo: org-x
+          company_logo: uci_logo
           location: California
           date_start: '2023-09-01'
           date_end: ''
