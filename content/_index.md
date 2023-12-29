@@ -64,7 +64,7 @@ sections:
       items:
         - title: Forest Canopy Wildfire Turbulence
           company: Boundary Layers & Turbulence Lab, UC Irvine
-          company_url: https://faculty.sites.uci.edu/banerjeelab/
+          company_url: '' #https://faculty.sites.uci.edu/banerjeelab/
           company_logo: uci_logo
           location: ''
           date_start: '2023-09-01'
@@ -76,8 +76,8 @@ sections:
               * Simulate flow through gaps of various sizes within a forest canopy
          - title: Wildfire Ember Transport
           company: Thermo-Fluids compleXity Lab, SJSU
-          company_url: https://www.tfx-lab.com/
-          company_logo: uci_logo
+          company_url: '' #https://www.tfx-lab.com/
+          company_logo: sjsu
           location: ''
           date_start: '2023-09-01'
           date_end: ''
@@ -88,8 +88,8 @@ sections:
             * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
          - title: Wildfire Bio-Aerosol Transport
           company: Thermo-Fluids compleXity Lab, SJSU
-          company_url: https://www.tfx-lab.com/
-          company_logo: uci_logo
+          company_url: '' #https://www.tfx-lab.com/
+          company_logo: sjsu
           location: ''
           date_start: '2023-09-01'
           date_end: ''
