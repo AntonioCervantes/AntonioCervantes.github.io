@@ -65,14 +65,26 @@ sections:
         - title: Forest Canopy Wildfire Turbulence
           company: Boundary Layers & Turbulence Lab, UC Irvine
           company_url: https://faculty.sites.uci.edu/banerjeelab/
-          company_logo: org-gc
+          company_logo: uci_logo
           location: ''
-          date_start: '2021-01-01'
+          date_start: '2023-09-01'
           date_end: ''
           description: |2-
               * Research the effects of forest canopy heterogenity on atmospheric flow and wildfires
               * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
               * Simulate flows through forest canopies with gaps of various sizes
+        - title: Wildfire Ember Transport
+          company: Thermo-Fluids compleXity Lab, SJSU
+          company_url: https://www.tfx-lab.com/
+          company_logo: sjsu
+          location: ''
+          date_start: '2022-02-01'
+          date_end: '2023-05-01'
+          description: |2-
+              * Investigate the influence of turbulence intensity on wildfire ember (firebrand) landing distribution for an improved understanding of spot fire generation and wildfire spread
+              * Conduct large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
+              * Create a data visualization pipeline for statistical analysis of particle landing distribution
+              * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
@@ -82,20 +94,7 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
       # items:
-      #   - title: Forest Canopy Wildfire Turbulence
-      #     company: Boundary Layers & Turbulence Lab, UC Irvine
-      #     company_url: '' #https://faculty.sites.uci.edu/banerjeelab/
-      #     company_logo: uci_logo
-      #     location: ''
-      #     date_start: '2023-09-01'
-      #     date_end: ''
-      #     description: |2-
-      #     test:
-
-      #         * Research atmospheric flows through heterogeneous forest canopies and study the effects on wildfires
-      #         * Simulate flows through horizontally homogeneous forest canopies for validation
-      #         * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
-      #         * Simulate flow through gaps of various sizes within a forest canopy
+      #  
       #    - title: Wildfire Ember Transport
       #     company: Thermo-Fluids compleXity Lab, SJSU
       #     company_url: '' #https://www.tfx-lab.com/
