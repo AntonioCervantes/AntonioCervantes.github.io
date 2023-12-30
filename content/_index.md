@@ -113,14 +113,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: ''
+          date_end: '2024-06-01'
+          date_start: '2023-09-01'
+          description: Fellowship for the '23/'24 school year where I am required to conduct 3 teaching assitantships and develop new skills and gain mentorship in teaching.
+          icon: uci_logo
+          organization: UC Irvine, US Department of Education
+          organization_url: ''
+          title: Graduate Fellowship in Areas of National Need (GAANN)
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
