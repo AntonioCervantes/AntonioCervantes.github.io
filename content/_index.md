@@ -116,21 +116,21 @@ sections:
         - certificate_url: ''
           date_end: '2024-06-01'
           date_start: '2023-09-01'
-          description: Fellowship for the '23/'24 school year where I am required to conduct 3 teaching assitantships and develop new skills and gain mentorship in teaching.
+          description: Fellowship for the 23/24 school year where I am required to conduct 3 teaching assitantships during my PhD at UCI, and develop new skills and gain mentorship in teaching.
           icon: uci_logo
           organization: UC Irvine, US Department of Education
           organization_url: ''
           title: Graduate Fellowship in Areas of National Need (GAANN)
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
+        - certificate_url: 'uploads/Davidson_Scholar_CoE_Showcase_Poster-QR.pdf'
+          date_end: '2023-05-01'
+          date_start: '2022-08-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          icon: sjsu
+          organization: Charles W. Davidson College of Engineering, SJSU
+          organization_url: https://www.sjsu.edu/engineering/index.php
+          title: Davidson Student Scholar
+          url: ''
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
