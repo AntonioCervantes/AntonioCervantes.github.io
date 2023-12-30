@@ -131,15 +131,24 @@ sections:
           organization_url: https://www.sjsu.edu/engineering/index.php
           title: Davidson Student Scholar
           url: ''
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: ''
+          date_end: '2023-05-01'
+          date_start: '2022-08-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: sjsu
+          organization: Charles W. Davidson College of Engineering, SJSU
+          organization_url: https://www.sjsu.edu/engineering/index.php
+          title: Dierks-Morgan Scholarship
           url: ''
+        - certificate_url: ''
+          date_end: '2022-07-01'
+          date_start: '2022-05-01'
+          description: ''
+          icon: 
+          organization: Autodesk Instructables
+          organization_url: https://www.instructables.com/
+          title: Digital Fabrication Student Design Challenge Winner
+          url: https://www.instructables.com/RC-Car-Upgrade-Using-3D-Printing/
     design:
       columns: '2'
   - block: collection
