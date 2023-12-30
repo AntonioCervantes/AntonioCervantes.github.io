@@ -143,12 +143,12 @@ sections:
         - certificate_url: ''
           date_end: '2022-07-01'
           date_start: '2022-05-01'
-          description: ''
+          description: Competed in the Summer 2022 Autodesk Instructable design challenge where I designed an aerodynamic upgrade package for my RC car which improved its top speed. My entry placed as a finalist in the Runner Up category. [See my entry here](https://www.instructables.com/RC-Car-Upgrade-Using-3D-Printing/)
           icon: 
           organization: Autodesk Instructables
           organization_url: https://www.instructables.com/
           title: Digital Fabrication Student Design Challenge Winner
-          url: https://www.instructables.com/RC-Car-Upgrade-Using-3D-Printing/
+          url: https://www.instructables.com/contest/digifab2022/
     design:
       columns: '2'
   - block: collection
