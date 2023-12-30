@@ -122,10 +122,10 @@ sections:
           organization_url: ''
           title: Graduate Fellowship in Areas of National Need (GAANN)
           url: ''
-        - certificate_url: [See poster](uploads/Davidson_Scholar_CoE_Showcase_Poster-QR.pdf)
+        - certificate_url: ''
           date_end: '2023-05-01'
           date_start: '2022-08-01'
-          description: Recieved scholarship which required completion of master's thesis by the end of the Spring 2023 semester and poster presentation in the annual College of Engineering 2023 Student Showcase and Celebration. See poster below.
+          description: Recieved scholarship which required completion of master's thesis by the end of the Spring 2023 semester and poster presentation in the annual College of Engineering 2023 Student Showcase and Celebration. [See poster](uploads/Davidson_Scholar_CoE_Showcase_Poster-QR.pdf)
           icon: sjsu
           organization: Charles W. Davidson College of Engineering, SJSU
           organization_url: https://www.sjsu.edu/engineering/index.php
