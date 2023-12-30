@@ -70,9 +70,9 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              * Research the effects of forest canopy heterogenity on atmospheric flow and wildfires
-              * Validate PALM LES codes with experimental wind velocity data from the Amazon rainforest
-              * Simulate flows through forest canopies with gaps of various sizes
+              * Research the impact of forest canopy heterogeneity on atmospheric flows and wildfires
+              * Validate PALM LES codes with experimental velocity data from the Amazon rainforest
+              * Simulate flows through forest canopy gaps of various sizes
         - title: Wildfire Ember Transport
           company: Thermo-Fluids compleXity Lab, SJSU
           company_url: https://www.tfx-lab.com/
@@ -81,23 +81,23 @@ sections:
           date_start: '2022-02-01'
           date_end: '2023-05-01'
           description: |2-
-              * Investigate the influence of turbulence intensity on wildfire ember (firebrand) landing distribution for an improved understanding of spot fire generation and wildfire spread
-              * Conduct large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
-              * Create a data visualization pipeline for statistical analysis of particle landing distribution
-              * Develop novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
+              * Investigated the influence of turbulence intensity on wildfire ember (firebrand) landing distribution for an improved understanding of spot fire generation and wildfire spread
+              * Conducted large eddy simulation (LES) of channel flow at several turbulence intensities using high-fidelity CFD codes
+              * Created a data visualization pipeline for statistical analysis of particle landing distribution
+              * Developed novel integration of firebrand transport with wildfire model for full physics spot fire generation simulations
         - title: Wildfire Bio-Aerosol Transport
           company: Thermo-Fluids compleXity Lab, SJSU
           company_url: https://www.tfx-lab.com/
           company_logo: sjsu
           location: ''
           date_start: '2021-09-01'
-          date_end: '2023-05-01'
+          date_end: '2022-09-01'
           description: |2-
-              * Develop numerical DEM simulation for an NSF-funded research project of more than 5 million wildfire bio-aerosols understanding of spot fire generation and wildfire spread
-              * Leverage Python acceleration and parallelization libraries to optimize code for a 99% increase in computation speed
-              * Create new Python functions for data-driven particle initialization at fire locations for improved physics
-              * Process large amounts of simulation data for visualizations and animations of more than 100 million data points
-              * Collaborate with an interdisciplinary team to write and publish a novel biological emissions factor research paper
+              * Developed numerical DEM simulation of more than 5 million bio-aerosols to understand deposition of pathogen-laden particles during a wildfire event for an NSF-funded research project
+              * Leveraged Python acceleration and parallelization libraries to optimize code for a 99% increase in computation speed
+              * Created Python functions for data-driven particle generation at fire locations for improved physics
+              * Developed processing tools for large data visualizations and animations of more than 100 million data points
+              * Collaborated with an interdisciplinary team to publish a novel biological emissions factor research paper
     design:
       columns: '2'
   - block: accomplishments
