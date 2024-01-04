@@ -54,3 +54,16 @@ This project is about the numerical modeling of firebrand showers in wildfire si
 
 ## Firebrand shapes
 Experimental data has shown that firebrands are made of 3 basic shapes: compact, plate, and rod. Studies have shown that particles of different shapes have different flight trajectories. And in the wildfire research community, these difference have not yet been fully explored.
+
+## Small & Large-scale Turbulence
+Modern wildfire simulations use large grid sizes in their computational meshes (around 250-300 m). This leads to only large-scale turbulence seen in the flow. Understanding the transport of plate and rod shapes in small-scale turbulence is crucial for understanding large-scale transport in wildfire simulations. With this knowledge, researchers will better understand how spot fires are generated.
+
+# Turbulent Boundary Layers
+
+### Setup
+| Parameters | Mesh Resolution | Simulation Cases |
+|---|---|---|
+| - U = 2.23 m/s  | ∆x = 0.025 m |
+| - Re = 284,000  |
+| - L = 2 m       |
+| - 𝓥 = 1.568E-5 | 
