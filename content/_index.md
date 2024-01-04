@@ -168,10 +168,16 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Wildfires
+          tag: Wildfires
+        - name: Turbulence
+          tag: Turbulence
+        - name: CFD
+          tag: CFD
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Robotics
+          tag: Robotics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -259,7 +265,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Feel free to contact me if you have any questions!
       # Contact (add or remove contact options as necessary)
       email: aqcervan@uci.edu
       # phone: 888 888 88 88

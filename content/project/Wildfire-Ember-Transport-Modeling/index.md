@@ -63,10 +63,10 @@ Modern wildfire simulations use large grid sizes in their computational meshes (
 ### Setup
 | Parameters | Mesh Resolution | Simulation Cases |
 |---|---|---|
-| - U = 2.23 m/s  | ∆x = 0.025 m | 4% turbulence intensity |
-| - Re = 284,000  | ∆y = 0.025 m | 7% turbulence intensity |
-| - L = 2 m       | ∆z = 0.025 m |
-| - 𝓥 = 1.568E-5 | 
+| U = 2.23 m/s  | ∆x = 0.025 m | 4% turbulence intensity |
+| Re = 284,000  | ∆y = 0.025 m | 7% turbulence intensity |
+| L = 2 m       | ∆z = 0.025 m |
+| 𝓥 = 1.568E-5 | 
 
 ### Validation
 Velocity profile of turbulent boundary layer simulations was validated with experimental data from Tohidi 2016. Power spectral density of turbulent boundary layer simulations validated with Kolomorgov -5/3 Spectrum to show a fully developed flow.
