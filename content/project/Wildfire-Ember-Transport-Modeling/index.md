@@ -82,4 +82,5 @@ Iso-surfaces of the vortices in the 4% turbulence intensity simulation case
 ## Small-scale Transport
 A series of 32 tests were conducted in the high-resolution turbulent boundary layer simulations in uniform and turbulent velocity fields. Plates and rods were released at 4 different heights
 
-![](https://youtu.be/0_YlRZiG-ZM)
+https://youtu.be/0_YlRZiG-ZM
+
