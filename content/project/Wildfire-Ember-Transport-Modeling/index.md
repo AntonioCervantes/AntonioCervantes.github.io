@@ -11,9 +11,9 @@ date: '2023-05-15T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-# image:
-#   caption: Photo by [Michael Benz](https://unsplash.com/photos/green-plants-with-white-background--IZ2sgQKIhM) on Unsplash
-#   focal_point: Smart
+image:
+  caption: Photo by [Max Whittaker](https://www.nytimes.com/2023/06/08/opinion/smoke-air-quality-what-started-the-wildfire.html) on NY Times
+  focal_point: Smart
 
 # links:
 #   - icon: twitter
@@ -42,4 +42,15 @@ This project is about the numerical modeling of firebrand showers in wildfire si
 
 - **Results**: Novel implementation of firebrand transport model coupled with wildfire simulation WRF-SFIRE for comparison between large-scale and small-scale transport
 
+
+# Problem
+- Firebrand showers are the fastest and most complex form of wildfire spread, by generating spot fires in random locations. 
+
+- There is a gap in knowledge on where firebrands land due to turbulent wind. 
+
+- There is no existing coupled firebrand-wildfire simulation with complex firebrand shapes.
+
 ![Alt text](image.png)
+
+## Firebrand shapes
+Experimental data has shown that firebrands are made of 3 basic shapes: compact, plate, and rod. Studies have shown that particles of different shapes have different flight trajectories. And in the wildfire research community, these difference have not yet been fully explored.
