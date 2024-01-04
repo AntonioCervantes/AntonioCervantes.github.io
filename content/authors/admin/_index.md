@@ -27,7 +27,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student in Civil and Environmental Engineering
+role: Ph.D. Student in Civil and Environmental Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -150,5 +150,5 @@ highlight_name: true
 ---
 
 
-Antonio Cervantes is a first year Ph.D. student of Civil and Environmental Engineering at the Boundary Layers and Turbulence Lab, UC Irvine. His research focuses on atmospheric-forest canopy flows and its effect on wildfires. His research interests include wildfires, particle transport, and turbulence. 
+Hey there! I'm a first year Ph.D. student of Civil and Environmental Engineering at the Boundary Layers and Turbulence Lab, UC Irvine. My research focuses on atmospheric-forest canopy flows and its effect on wildfires. Please see my site for info on my research experience and interests.
 {style="text-align: justify;"}
