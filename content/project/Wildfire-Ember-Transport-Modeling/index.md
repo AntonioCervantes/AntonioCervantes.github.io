@@ -11,9 +11,9 @@ date: '2023-05-15T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by [Michael Benz](https://unsplash.com/photos/green-plants-with-white-background--IZ2sgQKIhM) on Unsplash
-  focal_point: Smart
+# image:
+#   caption: Photo by [Michael Benz](https://unsplash.com/photos/green-plants-with-white-background--IZ2sgQKIhM) on Unsplash
+#   focal_point: Smart
 
 # links:
 #   - icon: twitter
