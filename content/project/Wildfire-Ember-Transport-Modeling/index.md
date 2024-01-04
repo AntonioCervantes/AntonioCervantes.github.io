@@ -63,7 +63,23 @@ Modern wildfire simulations use large grid sizes in their computational meshes (
 ### Setup
 | Parameters | Mesh Resolution | Simulation Cases |
 |---|---|---|
-| - U = 2.23 m/s  | ∆x = 0.025 m |
-| - Re = 284,000  |
-| - L = 2 m       |
+| - U = 2.23 m/s  | ∆x = 0.025 m | 4% turbulence intensity |
+| - Re = 284,000  | ∆y = 0.025 m | 7% turbulence intensity |
+| - L = 2 m       | ∆z = 0.025 m |
 | - 𝓥 = 1.568E-5 | 
+
+### Validation
+Velocity profile of turbulent boundary layer simulations was validated with experimental data from Tohidi 2016. Power spectral density of turbulent boundary layer simulations validated with Kolomorgov -5/3 Spectrum to show a fully developed flow.
+
+### Results
+Q-Criterion
+Iso-surfaces of the vortices in the 4% turbulence intensity simulation case
+
+
+
+# Firebrand Transport Simulations
+
+## Small-scale Transport
+A series of 32 tests were conducted in the high-resolution turbulent boundary layer simulations in uniform and turbulent velocity fields. Plates and rods were released at 4 different heights
+
+![](https://youtu.be/0_YlRZiG-ZM)
